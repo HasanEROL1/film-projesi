@@ -16,3 +16,7 @@ Bu proje, kullanıcıların filmleri keşfedebileceği modern bir film sitesi ta
 - **CSS:** Görsel stillerin belirlenmesi ve düzenin sağlanması.
 - **JavaScript:** Dinamik etkileşimlerin ve kullanıcı deneyiminin yönetilmesi.
 
+- ##tanıtım
+- 
+
+![tantım](https://github.com/user-attachments/assets/acd92616-dd66-4e4b-9294-8286e9f33942)
